@@ -11,7 +11,6 @@
 - Search books by title or author name
 - Display all books with their status
 - Issue and return books (toggle availability)
-- 
 ---
 
 ## Project Structure
